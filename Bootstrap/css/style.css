@@ -1,0 +1,10 @@
+.backImage {
+    background-image: url("../img/image-attractive.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 25rem;
+}
+
+.heightCarousel {
+    /* height: 15rem; */
+}
